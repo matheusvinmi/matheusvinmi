@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/">
+  <a href="https://www.linkedin.com/in/matheus-galicciolli-520a18373/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="mailto:matheusviniciusgali05@email.com">
