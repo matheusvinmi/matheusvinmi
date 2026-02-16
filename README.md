@@ -30,10 +30,12 @@
 <p align="left">
 🎓 Estudante do 3º ano de Informática para Internet<br>
 💻 Desenvolvedor Back-end Java<br>
-📈 Interessado em liderança e gestão de projetos<br><br>
+📈 Interesse em liderança e gestão de projetos<br><br>
 
-- 🔭 Trabalhando com Java Web (MVC + APIs REST)
-- 📚 Estudando boas práticas de arquitetura e código seguro
+- 🔭 Experiência com Java Web (MVC + APIs REST)
+- 📚 Estudando arquitetura de software e desenvolvimento seguro
+- 👨‍💼 Experiência atuando como Scrum Master
+- 🚀 Aprendendo Kotlin para back-end e desenvolvimento cross-platform
 - ⚡ Interesse em liderança técnica e gestão de equipes
 </p>
 
@@ -44,6 +46,9 @@
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
 <img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
