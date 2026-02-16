@@ -1,69 +1,74 @@
-# 👨‍💻 Matheus Vinicius Galicciolli
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+</div>
 
-🚀 Back-end Developer  
-🎓 Estudante de Informática para Internet  
+###
 
----
+<div align="center">
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=EA4335&logoColor=white&style=for-the-badge"/>
+  </a>
+</div>
 
-## 🧠 Sobre mim
+###
 
-Sou desenvolvedor back-end com foco em Java e segurança da informação.  
-Tenho experiência no desenvolvimento de sistemas web utilizando padrão MVC, APIs REST e banco de dados relacionais.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=matheusvinmi.matheusvinmi"/>
+</div>
 
-Interesse principal em:
-- Liderança e gerenciamento
-- Desenvolvimento back-end seguro
-- Arquitetura de sistemas
+###
 
----
+<h1 align="center">Olá 👋 Eu sou Matheus Vinicius</h1>
 
-## 🛠️ Tecnologias & Ferramentas
+###
 
-### 💻 Back-end
-- Java 17/21/25
-- Spring Boot
-- Spring Security
-- APIs REST
-- MVC Pattern
-- Maven
-- JUnit & Mockito
+<h3 align="left">👨‍💻 Sobre mim</h3>
 
-### 🗄️ Banco de dados
-- MySQL
-- PostgreSQL
+<p align="left">
+🎓 Estudante do 3º ano de Informática para Internet<br>
+💻 Desenvolvedor Back-end Java<br>
+📈 Interessado em liderança e gestão de projetos<br><br>
 
-### ⚙️ Ferramentas
-- Git & GitHub
-- Swagger
-- Postman
-- Linux
+- 🔭 Trabalhando com Java Web (MVC + APIs REST)
+- 📚 Estudando boas práticas de arquitetura e código seguro
+- ⚡ Interesse em liderança técnica e gestão de equipes
+</p>
 
-### 📐 Engenharia de Software
-- Diagramas de Classe (UML)
+###
 
----
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
-## 📊 Estatísticas GitHub
+<div align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img width="12"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
+<img width="12"/>
 
-![Streak](https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="12"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img width="12"/>
 
-## 🎯 Objetivo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img width="12"/>
 
-Atuar profissionalmente com **Programação back-end** e desenvolvimento de sistemas seguros.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="12"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40"/>
 
-## 📫 Contato
+</div>
 
-- LinkedIn: (colocar)
-- Email: matheusviniciusgali05@gmail.com
+###
 
----
+<h3 align="left">🔥 My Stats</h3>
 
-⭐ Sempre estudando, sempre evoluindo.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=matheusvinmi&theme=dark&border_radius=5"/>
+</div>
