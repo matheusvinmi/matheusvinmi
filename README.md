@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:matheusviniciusgali05@email.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=EA4335&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Olá 👋 Eu sou Matheus Vinicius</h1>
+<h1 align="center">Olá 👋 Eu sou Matheus Vinicius Galicciolli</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 <p align="left">
 🎓 Estudante do 3º ano de Informática para Internet<br>
-💻 Desenvolvedor Back-end Java<br>
+💻 Scrum Maste e Desenvolvedor Back-end Java<br>
 📈 Interesse em liderança e gestão de projetos<br><br>
 
 - 🔭 Experiência com Java Web (MVC + APIs REST)
