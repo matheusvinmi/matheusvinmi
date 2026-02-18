@@ -35,7 +35,6 @@
 - 🔭 Experiência com Java Web (MVC + APIs REST)
 - 📚 Estudando arquitetura de software e desenvolvimento seguro
 - 👨‍💼 Experiência atuando como Scrum Master
-- 🚀 Aprendendo Kotlin para back-end e desenvolvimento cross-platform
 - ⚡ Interesse em liderança técnica e gestão de equipes
 </p>
 
@@ -46,9 +45,6 @@
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
 <img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
