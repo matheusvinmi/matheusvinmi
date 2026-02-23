@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Olá 👋 Eu sou Matheus Vinicius Galicciolli</h1>
+<h1 align="center">Olá 👋 Eu sou Matheus Vinícius Galicciolli</h1>
 
 ###
 
